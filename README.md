@@ -1,10 +1,13 @@
 # Galgame / Visual Novel i10n Patch Collections
 
+## 收錄補丁名單及補丁下載鏈接
 See [galgame-patch-collections.md](galgame-patch-collections.md)
 
-## About the project
+見 [galgame-patch-collections.md](galgame-patch-collections.md)
 
+## About the project
 The project aims to collect galgame localization patches.
+
 該計劃旨在收錄 Galgame 的（非官方）本地化補丁（e.g：漢化補丁）
 
 ## What patch do we collect
