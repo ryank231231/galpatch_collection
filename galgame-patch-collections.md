@@ -11,3 +11,7 @@
 |夏天的谎言|ナツウソ Ahead Of The Reminiscence|https://archive.org/details/natsuuso-chs-patch|天之圣杯汉化组|
 |恋色空模样|恋色空模様|https://archive.org/details/koisora-chs-patch|绿茶汉化组|
 |住在下体升级岛上的贫乳该如何是好？|抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？|https://archive.org/details/nukitashi-chs-patch-v2|善雅鸽汉化组|
+|金色Loveriche -Golden Time-|金色ラブリッチェ -Golden Time-|https://archive.org/details/kinkoi-gt-chs-patch|脆皮鸽汉化组|
+|娇蛮任性HIGHSPEC|ワガママハイスペック|https://archive.org/details/wagahigh-chs-patch|弥生月汉化组|
+|時を紡ぐ約束|编织时间的约定|https://archive.org/details/tokisoku-chs-patch|清隆汉化组|
+|苍蓝彼端的四重奏|蒼の彼方のフォーリズム|https://archive.org/details/aokana-chs-patch|萌你妹汉化组|汉化的不是原版，而是2018年发售的Perfect Edition版本|
