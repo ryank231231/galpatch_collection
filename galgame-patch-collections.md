@@ -15,3 +15,4 @@
 |娇蛮任性HIGHSPEC|ワガママハイスペック|https://archive.org/details/wagahigh-chs-patch|弥生月汉化组|
 |時を紡ぐ約束|编织时间的约定|https://archive.org/details/tokisoku-chs-patch|清隆汉化组|
 |苍蓝彼端的四重奏|蒼の彼方のフォーリズム|https://archive.org/details/aokana-chs-patch|萌你妹汉化组|汉化的不是原版，而是2018年发售的Perfect Edition版本|
+|LAMUNATION！|LAMUNATION！|https://archive.org/details/lamunation-chs-patch|大书库汉化组|
