@@ -24,3 +24,6 @@
 |星辰恋曲的白色永恒-Finale-|アストラエアの白き永遠 Finale 白き星の夢|https://archive.org/details/astralairfinale-cha-patch|X'moe汉化组|
 |想要传达给你的爱恋|恋×シンアイ彼女|https://archive.org/details/koikake-chs-patch|X'moe汉化组|
 |花咲workspring！|花咲ワークスプリング！|https://archive.org/details/hanasaki-chs-patch|城彩学园汉化组|
+|9-nine-天色天歌天籁音|9-nine-そらいろそらうたそらのおと|https://archive.org/details/nine-sorairo-chs-patch|樱空汉化组|
+|9-nine-春色春恋春熙风|9-nine-はるいろはるこいはるのかぜ|https://archive.org/details/nine-haruiro-chs-patch|樱空汉化组|
+|9-nine-雪色雪花雪余痕|9-nine-ゆきいろゆきはなゆきのあと|https://archive.org/details/nine-yukiiro-chs-patch|樱空汉化组|
