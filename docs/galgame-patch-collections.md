@@ -27,3 +27,13 @@
 |9-nine-天色天歌天籁音|9-nine-そらいろそらうたそらのおと|ぱれっと|https://archive.org/details/nine-sorairo-chs-patch|樱空汉化组|
 |9-nine-春色春恋春熙风|9-nine-はるいろはるこいはるのかぜ|ぱれっと|https://archive.org/details/nine-haruiro-chs-patch|樱空汉化组|
 |9-nine-雪色雪花雪余痕|9-nine-ゆきいろゆきはなゆきのあと|ぱれっと|https://archive.org/details/nine-yukiiro-chs-patch|樱空汉化组|
+|9-nine- 新章|9-nine- 新章|ぱれっと|https://archive.org/details/9-nine-new-ep-chs-patch|樱空汉化组|
+|缘之空|ヨスガノソラ|Sphere|https://archive.org/details/yosuga-chs-patch|Sphere 中文化委员会|
+|Summer Pockets REFLECTION BLUE||Key|https://archive.org/details/summer-pockets-reflection-blue-chs-patch|枫笛汉化组|
+|宿星のガールフレンド|宿星Girlfriend|mirai|https://archive.org/details/syukugar-chs-patch|绿茶汉化组|
+|宿星のガールフレンド BugBug Append|宿星Girlfriend BugBug Append|mirai|https://archive.org/details/syukugar-bugbug-append-chs-patch|绿茶汉化组|
+|宿星のガールフレンド 2|宿星Girlfriend 2|mirai|https://archive.org/details/syukugar2-chs-patch|绿茶汉化组|
+|宿星のガールフレンド 3|宿星Girlfriend 3|mirai|https://archive.org/details/syukugar3-chs-patch|绿茶汉化组|
+|宿星のガールフレンド 芙慈子編|宿星Girlfriend 芙慈子篇|mirai|https://archive.org/details/syukugar-yujiko-hen-chs-patch|绿茶汉化组|
+|神様のような君へ|献给神明的你|CUBE|https://archive.org/details/kamikimi-chs-patch|绿茶汉化组|
+|花色ヘプタグラム|花色七芒星|Lamp of Sugar|https://archive.org/details/hanairo-heptagram-chs-patch|樱空汉化组|
