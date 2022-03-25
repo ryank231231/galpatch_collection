@@ -1,0 +1,21 @@
+site_name: "Visual Novel Patch Collections"
+site_author: ryank231231 @ All contributers
+site_description: Visual Novel Patch Collections
+theme:
+  name: material
+  # Dark mode switch, see https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+  palette:
+    - media: "(prefers-color-scheme: light)" # 
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" # 
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+markdown_extensions:
+  - attr_list
+  - meta
+  - md_in_html

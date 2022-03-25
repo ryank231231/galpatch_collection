@@ -1,6 +1,6 @@
-# Galgame Patch Collections
+# Patch List
 
-> 上传详情见：https://archive.org/details/@vn_patch?tab=uploads
+> 上传详情见：[https://archive.org/details/@vn_patch?tab=uploads](https://archive.org/details/@vn_patch?tab=uploads)
 
 |CHS Name|JPN Name|Link|Group|Description|
 |---|---|---|---|---|
