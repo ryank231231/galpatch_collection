@@ -29,8 +29,8 @@
 |9-nine-はるいろはるこいはるのかぜ|9-nine-春色春恋春熙风|ぱれっと|https://archive.org/details/nine-haruiro-chs-patch|樱空汉化组|
 |9-nine-ゆきいろゆきはなゆきのあと|9-nine-雪色雪花雪余痕|ぱれっと|https://archive.org/details/nine-yukiiro-chs-patch|樱空汉化组|
 |9-nine- 新章|9-nine- 新章|ぱれっと|https://archive.org/details/9-nine-new-ep-chs-patch|樱空汉化组|
-|缘之空|ヨスガノソラ|Sphere|https://archive.org/details/yosuga-chs-patch|Sphere 中文化委员会|
-|Summer Pockets REFLECTION BLUE||Key|https://archive.org/details/summer-pockets-reflection-blue-chs-patch|枫笛汉化组|
+|ヨスガノソラ|缘之空|Sphere|https://archive.org/details/yosuga-chs-patch|Sphere 中文化委员会|
+|Summer Pockets REFLECTION BLUE|Summer Pockets REFLECTION BLUE|Key|https://archive.org/details/summer-pockets-reflection-blue-chs-patch|枫笛汉化组|
 |宿星のガールフレンド|宿星Girlfriend|mirai|https://archive.org/details/syukugar-chs-patch|绿茶汉化组|
 |宿星のガールフレンド BugBug Append|宿星Girlfriend BugBug Append|mirai|https://archive.org/details/syukugar-bugbug-append-chs-patch|绿茶汉化组|
 |宿星のガールフレンド 2|宿星Girlfriend 2|mirai|https://archive.org/details/syukugar2-chs-patch|绿茶汉化组|
@@ -38,3 +38,8 @@
 |宿星のガールフレンド 芙慈子編|宿星Girlfriend 芙慈子篇|mirai|https://archive.org/details/syukugar-yujiko-hen-chs-patch|绿茶汉化组|
 |神様のような君へ|献给神明的你|CUBE|https://archive.org/details/kamikimi-chs-patch|绿茶汉化组|
 |花色ヘプタグラム|花色七芒星|Lamp of Sugar|https://archive.org/details/hanairo-heptagram-chs-patch|樱空汉化组|
+|PRIMAL×HEARTS|PRIMAL×HEARTS|ま～まれぇど|https://archive.org/details/primal-hearts-chs-patch|天之圣杯汉化组|
+|あえて無視するキミとの未来 ～Relay broadcast～|硬要无视与你的未来 ～Relay broadcast～|ALcot Honeycomb / ALcot ハニカム|https://archive.org/details/aete-chs-patch|绿南广播部|
+|ノラと皇女と野良猫ハート|野良与皇女与流浪猫之心|HARUKAZE|https://archive.org/details/noratoto-chs-patch|「萌木同好会」/「心愿屋汉化组」|
+|ALIA's CARNIVAL! Flowering Sky|爱丽娅的明日盛典！Flowering Sky|NanaWind|https://archive.org/details/alias-carnival-flowering-sky-chs-patch|白井木学园汉化组|
+|ましろ色シンフォニー|纯白交响曲|ぱれっと|https://archive.org/details/mashifoni-chs-patch|纯白汉化组&妹乃萌汉化组|
