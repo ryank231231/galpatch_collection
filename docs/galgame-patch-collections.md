@@ -11,12 +11,12 @@
 |夏天的谎言|ナツウソ Ahead Of The Reminiscence|https://archive.org/details/natsuuso-chs-patch|天之圣杯汉化组|
 |恋色空模样|恋色空模様|https://archive.org/details/koisora-chs-patch|绿茶汉化组|incl. Fix.20201002 / 包含漢化組提供的20201002修復補丁|
 |住在下体升级岛上的贫乳该如何是好？|抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？|https://archive.org/details/nukitashi-chs-patch-v2|善雅鸽汉化组|
-|金色Loveriche -Golden Time-|金色ラブリッチェ -Golden Time-|https://archive.org/details/kinkoi-gt-chs-patch|脆皮鸽汉化组|
 |娇蛮任性HIGHSPEC|ワガママハイスペック|https://archive.org/details/wagahigh-chs-patch|弥生月汉化组|
 |時を紡ぐ約束|编织时间的约定|https://archive.org/details/tokisoku-chs-patch|清隆汉化组|
 |苍蓝彼端的四重奏|蒼の彼方のフォーリズム|https://archive.org/details/aokana-chs-patch|萌你妹汉化组|汉化的不是原版，而是2018年发售的Perfect Edition版本|
 |LAMUNATION！|LAMUNATION！|https://archive.org/details/lamunation-chs-patch|大书库汉化组|
 |金色Loveriche|金色ラブリッチェ|https://archive.org/details/kinkoi-chs-patch|仲夏夜会汉化组|
+|金色Loveriche -Golden Time-|金色ラブリッチェ -Golden Time-|https://archive.org/details/kinkoi-gt-chs-patch|脆皮鸽汉化组|incl. Fix 1.2 & 1.3 / 包含漢化組提供的1.2&1.3版本的補丁|
 |世界与世界的中心|世界と世界の真ん中で|https://archive.org/details/sekachu-chs-patch|樱空汉化组|
 |羁绊辉耀的恋之伊吕波|絆きらめく恋いろは|https://archive.org/details/mekuiro-chs-patch|樱空汉化组|
 |共结情缘的剑舞恋曲 -椿恋歌-|絆きらめく恋いろは－椿恋歌－|https://archive.org/details/trenka-chs-patch|天之圣杯汉化组|
