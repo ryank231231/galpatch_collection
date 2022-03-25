@@ -4,7 +4,7 @@
 
 
 |JPN Name|CHS Name|Production|Link|Group|Description|
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 |ノラと皇女と野良猫ハート２|野良与皇女与流浪猫之心 2|HARUKAZE|https://archive.org/details/nora-2-chs-patch|绿茶汉化组|
 |恋がさくころ桜どき|恋花绽放樱飞时|ぱれっと|https://archive.org/details/koisakura_chs_patch|星冈樱南镇守府|
 |千の刃濤、桃花染の皇姫|千之刃涛，桃花染之皇姬|AUGUST|https://archive.org/details/augest-hatou-chs-patch|弥生月汉化组|
