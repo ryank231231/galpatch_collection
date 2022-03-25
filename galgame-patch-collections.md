@@ -9,7 +9,7 @@
 |千之刃涛，桃花染之皇姬|千の刃濤、桃花染の皇姫|https://archive.org/details/augest-hatou-chs-patch|弥生月汉化组|
 |星光咖啡馆与死神之蝶|喫茶ステラと死神の蝶|https://archive.org/details/cafe-stella-chs-patch|弥生月汉化组|
 |夏天的谎言|ナツウソ Ahead Of The Reminiscence|https://archive.org/details/natsuuso-chs-patch|天之圣杯汉化组|
-|恋色空模样|恋色空模様|https://archive.org/details/koisora-chs-patch|绿茶汉化组|
+|恋色空模样|恋色空模様|https://archive.org/details/koisora-chs-patch|绿茶汉化组|incl. Fix.20201002 / 包含漢化組提供的20201002修復補丁|
 |住在下体升级岛上的贫乳该如何是好？|抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？|https://archive.org/details/nukitashi-chs-patch-v2|善雅鸽汉化组|
 |金色Loveriche -Golden Time-|金色ラブリッチェ -Golden Time-|https://archive.org/details/kinkoi-gt-chs-patch|脆皮鸽汉化组|
 |娇蛮任性HIGHSPEC|ワガママハイスペック|https://archive.org/details/wagahigh-chs-patch|弥生月汉化组|
