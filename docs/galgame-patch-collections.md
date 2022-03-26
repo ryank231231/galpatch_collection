@@ -7,7 +7,7 @@
 |---|---|---|---|---|---|
 |ノラと皇女と野良猫ハート２|野良与皇女与流浪猫之心 2|HARUKAZE|https://archive.org/details/nora-2-chs-patch|绿茶汉化组|
 |恋がさくころ桜どき|恋花绽放樱飞时|ぱれっと|https://archive.org/details/koisakura_chs_patch|星冈樱南镇守府|
-|千の刃濤、桃花染の皇姫|千之刃涛，桃花染之皇姬|AUGUST|https://archive.org/details/augest-hatou-chs-patch|弥生月汉化组|
+|千の刃濤、桃花染の皇姫|千之刃涛，桃花染之皇姬|AUGEST|https://archive.org/details/augest-hatou-chs-patch|弥生月汉化组|
 |喫茶ステラと死神の蝶|星光咖啡馆与死神之蝶|ゆずソフト|https://archive.org/details/cafe-stella-chs-patch|弥生月汉化组|
 |ナツウソ Ahead Of The Reminiscence|夏天的谎言|CAMPUS|https://archive.org/details/natsuuso-chs-patch|天之圣杯汉化组|
 |恋色空模様|恋色空模样|すたじお緑茶|https://archive.org/details/koisora-chs-patch|绿茶汉化组|incl. Fix.20201002 / 包含漢化組提供的20201002修復補丁|
@@ -43,3 +43,4 @@
 |ノラと皇女と野良猫ハート|野良与皇女与流浪猫之心|HARUKAZE|https://archive.org/details/noratoto-chs-patch|「萌木同好会」/「心愿屋汉化组」|
 |ALIA's CARNIVAL! Flowering Sky|爱丽娅的明日盛典！Flowering Sky|NanaWind|https://archive.org/details/alias-carnival-flowering-sky-chs-patch|白井木学园汉化组|
 |ましろ色シンフォニー|纯白交响曲|ぱれっと|https://archive.org/details/mashifoni-chs-patch|纯白汉化组&妹乃萌汉化组|
+|白恋サクラ＊グラム|白恋Sakura ＊ Gram|NanaWind|https://archive.org/details/shirogram-chs-patch|天之圣杯汉化组|
